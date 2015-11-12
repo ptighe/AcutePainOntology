@@ -9,6 +9,7 @@ To be done:
 -word2vec
 -comparison of content with chronic pain, acute pain
 
+_______________________________________________________
 
 Ambuj/Nov 12
 word2vec model created
@@ -25,4 +26,5 @@ model_ap.most_similar(positive=["adult"])
 
 Result looks OK for words. We can implement doc2vec model for sentence and abstract level analysis.
 
+_______________________________________________________
   
