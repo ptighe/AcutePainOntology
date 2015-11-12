@@ -17,6 +17,7 @@ demo results
 
 
 import genism
+
 model_ap = gensim.models.Word2Vec.load("acute_pain_word2vec.mod")
 model_ap.most_similar(positive=["adult"])
 
