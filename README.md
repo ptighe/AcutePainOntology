@@ -8,3 +8,20 @@ To be done:
 -Further develop LSI
 -word2vec
 -comparison of content with chronic pain, acute pain
+
+
+Ambuj
+word2vec model created
+
+demo results
+
+
+>>> import genism
+>>> gensim.models.Word2Vec.load("acute_pain_word2vec.mod")
+>>> model_ap.most_similar(positive=["adult"])
+
+[('elderly', 0.925835907459259), ('older', 0.9163432121276855), ('often', 0.9131861925125122), ('young', 0.9089071154594421), ('regarded', 0.8877142667770386), ('disabled', 0.8855756521224976), ('female', 0.8775333166122437), ('treated', 0.8761195540428162), ('self-report', 0.8637561202049255), ('forty-eight', 0.8580072522163391)]
+
+Results look OK for words. We can implement doc2vec model for sentence and abstract level analysis.
+
+  
