@@ -10,7 +10,7 @@ To be done:
 -comparison of content with chronic pain, acute pain
 
 
-Ambuj
+Ambuj/Nov 12
 word2vec model created
 
 demo results
