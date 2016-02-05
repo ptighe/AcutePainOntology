@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99ed6316-1eca-442f-8bdc-17e09de3f32f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xml_testing/morexmlobjectify.py" afterPath="$PROJECT_DIR$/xml_testing/morexmlobjectify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xml_testing/pubmed_result_tighe.xml" afterPath="$PROJECT_DIR$/xml_testing/pubmed_result_tighe.xml" />
     </list>
     <ignored path="AcutePainOntology.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,7 +171,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -414,6 +412,13 @@
       <option name="number" value="Default" />
       <updated>1454594336136</updated>
     </task>
+    <task id="LOCAL-00001" summary="Think I got the tree.xpath to work, still need to test output to dfsimple">
+      <created>1454713431854</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454713431854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -422,6 +427,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17400882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29701954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -450,6 +456,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Think I got the tree.xpath to work, still need to test output to dfsimple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Think I got the tree.xpath to work, still need to test output to dfsimple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
