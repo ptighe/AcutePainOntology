@@ -21,6 +21,8 @@ for elem in tree.iterfind('//PMID'):
 for elem in tree.iterfind('//Article/ArticleTitle'):
     print (elem.tag,elem.text)
 
+for elem in tree.iterfind('//')
+
 # root.getchildren()[0].getchildren()
 #
 # for child in root.getchildren()[0].getiterator():
@@ -36,7 +38,7 @@ for i in range(0,3):
 
 
 
-df = pd.DataFrame(columns=('PMID','PubDateYear','PubDateMonth','JournalTitle',
+df = pd.DataFrame(columns=('PMID','PubDateYear','PubDateMonth','FirstAuthors','JournalTitle',
                            'JournalAbbrev','ArticleTitle','AbstractText'))
 
 dfsimple = pd.DataFrame(columns=('PMID','ArticleTitle','AbstractText'))
@@ -46,7 +48,7 @@ for i in range(len(parents)):
     dfsimple.loc[i,'ArticleTitle']=tree.xpath('//Article/ArticleTitle')[i]
     dfsimple.loc[i,'AbstractText']=tree.xpath('//Abstract/AbstractText')[i]
 
-dfsimple
+print dfsimple
     # pm_id = tree.xpath('//PMID')[i]
     # article_title = tree.xpath('//Article/ArticleTitle')[i]
     # abstract_text = tree.xpath('//Abstract/AbstractText')[i]

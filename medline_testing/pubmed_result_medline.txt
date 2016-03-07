@@ -1,0 +1,1570 @@
+
+PMID- 26588689
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160213
+IS  - 1872-6623 (Electronic)
+IS  - 0304-3959 (Linking)
+VI  - 157
+IP  - 3
+DP  - 2016 Mar
+TI  - Markov chain evaluation of acute postoperative pain transition states.
+PG  - 717-28
+LID - 10.1097/j.pain.0000000000000429 [doi]
+AB  - Previous investigations on acute postoperative pain dynamicity have focused on
+      daily pain assessments, and so were unable to examine intraday variations in
+      acute pain intensity. We analyzed 476,108 postoperative acute pain intensity
+      ratings, which were clinically documented on postoperative days 1 to 7 from 8346 
+      surgical patients using Markov chain modeling to describe how patients are likely
+      to transition from one pain state to another in a probabilistic fashion. The
+      Markov chain was found to be irreducible and positive recurrent, with no
+      absorbing states. Transition probabilities ranged from 0.0031, for the transition
+      from state 10 to state 1, to 0.69 for the transition from state 0 to state 0. The
+      greatest density of transitions was noted in the diagonal region of the
+      transition matrix, suggesting that patients were generally most likely to
+      transition to the same pain state as their current state. There were also
+      slightly increased probability densities in transitioning to a state of asleep or
+      0 from the current state. An examination of the number of steps required to
+      traverse from a particular first pain score to a target state suggested that
+      overall, fewer steps were required to reach a state of 0 (range 6.1-8.8 steps) or
+      asleep (range 9.1-11) than were required to reach a mild pain intensity state.
+      Our results suggest that using Markov chains is a feasible method for describing 
+      probabilistic postoperative pain trajectories, pointing toward the possibility of
+      using Markov decision processes to model sequential interactions between pain
+      intensity ratings, and postoperative analgesic interventions.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - aPain Research and Intervention Center of Excellence (PRICE), University of
+      Florida, Gainesville, FL, USA bDepartment of Anesthesiology, University of
+      Florida College of Medicine, Gainesville, FL, USA cJ. Crayton Pruitt Family
+      Department of Biomedical Engineering, College of Engineering, University of
+      Florida, Gainesville, FL, USA dDepartment of Information Systems and Operations
+      Management, Warrington College of Business Administration, University of Florida,
+      Gainesville, FL, USA.
+FAU - Bzdega, Matthew
+AU  - Bzdega M
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+FAU - Rashidi, Parisa
+AU  - Rashidi P
+FAU - Aytug, Haldun
+AU  - Aytug H
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Pain
+JT  - Pain
+JID - 7508686
+SB  - IM
+EDAT- 2015/11/21 06:00
+MHDA- 2015/11/21 06:00
+CRDT- 2015/11/21 06:00
+AID - 10.1097/j.pain.0000000000000429 [doi]
+PST - ppublish
+SO  - Pain. 2016 Mar;157(3):717-28. doi: 10.1097/j.pain.0000000000000429.
+
+PMID- 26535424
+OWN - NLM
+STAT- In-Process
+DA  - 20151103
+LR  - 20151208
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 16
+IP  - 9
+DP  - 2015 Sep
+TI  - Acute Pain Medicine in the United States: A Status Report.
+PG  - 1806-26
+LID - 10.1111/pme.12760 [doi]
+AB  - BACKGROUND: Consensus indicates that a comprehensive,multimodal, holistic
+      approach is foundational to the practice of acute pain medicine (APM),but lack of
+      uniform, evidence-based clinical pathways leads to undesirable variability
+      throughout U. S. healthcare systems. Acute pain studies are inconsistently
+      synthesized to guide educational programs. Advanced practice techniques involving
+      regional anesthesia assume the presence of a physician-led, multidisciplinary
+      acute pain service,which is often unavailable or inconsistently applied.This
+      heterogeneity of educational and organizational standards may result in
+      unnecessary patient pain and escalation of healthcare costs. METHODS: A
+      multidisciplinary panel was nominated through the APM Shared Interest Group of
+      the American Academy of Pain Medicine. The panel met in Chicago, IL, in July
+      2014, to identify gaps and set priorities in APM research and education. RESULTS:
+      The panel identified three areas of critical need: 1) an open-source acute pain
+      data registry and clinical support tool to inform clinical decision making and
+      resource allocation and to enhance research efforts; 2) a strong professional APM
+      identity as an accredited subspecialty; and 3) educational goals targeted toward 
+      third-party payers,hospital administrators, and other key stake holders to convey
+      the importance of APM. CONCLUSION: This report is the first step in a 3-year
+      initiative aimed at creating conditions and incentives for the optimal provision 
+      of APM services to facilitate and enhance the quality of patient recovery after
+      surgery, illness, or trauma. The ultimate goal is to reduce the conversion of
+      acute pain to the debilitating disease of chronic pain.
+FAU - Tighe, Patrick
+AU  - Tighe P
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, Florida, USA.
+FAU - Buckenmaier, Chester C 3rd
+AU  - Buckenmaier CC 3rd
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+FAU - Carr, Daniel B
+AU  - Carr DB
+FAU - Clark, Laura L
+AU  - Clark LL
+FAU - Herring, Andrew A
+AU  - Herring AA
+FAU - Kent, Michael
+AU  - Kent M
+FAU - Mackey, Sean
+AU  - Mackey S
+FAU - Mariano, Edward R
+AU  - Mariano ER
+FAU - Polomano, Rosemary C
+AU  - Polomano RC
+FAU - Reisfield, Gary M
+AU  - Reisfield GM
+LA  - eng
+GR  - K23 GM 102697/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - K24 DA029262/DA/NIDA NIH HHS/United States
+GR  - K24 DA029262/DA/NIDA NIH HHS/United States
+GR  - UL1 TR001427/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150610
+PL  - England
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+PMC - PMC4634553
+MID - NIHMS710471
+OID - NLM: NIHMS710471 [Available on 09/01/16]
+OID - NLM: PMC4634553 [Available on 09/01/16]
+OTO - NOTNLM
+OT  - Acute pain
+OT  - Anesthesiology
+OT  - Delivery of healthcare
+OT  - Education
+OT  - Medical informatios
+OT  - Research
+EDAT- 2015/11/05 06:00
+MHDA- 2015/11/05 06:00
+CRDT- 2015/11/05 06:00
+PMCR- 2016/09/01 00:00
+PST - ppublish
+SO  - Pain Med. 2015 Sep;16(9):1806-26. doi: 10.1111/pme.12760. Epub 2015 Jun 10.
+
+PMID- 26456458
+OWN - NLM
+STAT- In-Process
+DA  - 20151120
+LR  - 20151201
+IS  - 1873-6815 (Electronic)
+IS  - 0531-5565 (Linking)
+VI  - 72
+DP  - 2015 Dec
+TI  - Age differences in cytokine expression under conditions of health using
+      experimental pain models.
+PG  - 150-6
+LID - 10.1016/j.exger.2015.09.017 [doi]
+LID - S0531-5565(15)30060-7 [pii]
+AB  - Older adults are at an increased risk to develop frequent and prolonged pain.
+      Emerging evidence proposes a link between immune changes and pain, which is
+      consistent with the inflammation theory of aging and the increased incidence of
+      age-related diseases. This study tested the hypothesis that older adults show
+      greater immune responses to experimental pain compared to younger individuals.
+      Study subjects (8 younger and 9 older healthy adults) underwent 3 experimental
+      sessions using well-validated human experimental pain models: the cold pressor
+      task (CPT), focal heat pain (FHP), and a non-painful thermal control. Blood was
+      collected through an indwelling catheter at baseline and 3, 15, 30, 45, 60, and
+      90 min post-stimuli administration. Pro-inflammatory cytokines (TNF-alpha IL-6
+      and IL-8) peaked at the same time points for both groups, with greater elevations
+      among older subjects for TNF-alpha and IL-8 in both pain models and elevations in
+      IL-6 only for CPT. Anti-inflammatory cytokines (IL-4, IL-5, and IL-10) generally 
+      peaked later for the older subjects, with increased elevations for FHP but not
+      the CPT. These data are consistent with the assertion that age-related immune
+      system dysregulation may account for the increased prevalence of pain in older
+      adults.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Cruz-Almeida, Yenisel
+AU  - Cruz-Almeida Y
+AD  - Pain Research & Intervention Center of Excellence (PRICE), United States;
+      Institute of Aging, College of Medicine, United States; Department of Community
+      Dentistry and Behavioral Science, College of Dentistry, United States.
+FAU - Aguirre, Maria
+AU  - Aguirre M
+AD  - Pain Research & Intervention Center of Excellence (PRICE), United States;
+      Department of Community Dentistry and Behavioral Science, College of Dentistry,
+      United States.
+FAU - Sorenson, Heather L
+AU  - Sorenson HL
+AD  - Department of Oral Biology, College of Dentistry, United States.
+FAU - Tighe, Patrick
+AU  - Tighe P
+AD  - Pain Research & Intervention Center of Excellence (PRICE), United States;
+      Department of Anesthesiology, College of Medicine, United States.
+FAU - Wallet, Shannon M
+AU  - Wallet SM
+AD  - Department of Oral Biology, College of Dentistry, United States.
+FAU - Riley, Joseph L 3rd
+AU  - Riley JL 3rd
+AD  - Pain Research & Intervention Center of Excellence (PRICE), United States;
+      Department of Community Dentistry and Behavioral Science, College of Dentistry,
+      United States.
+LA  - eng
+GR  - K01 AG048259/AG/NIA NIH HHS/United States
+GR  - K01AG048259/AG/NIA NIH HHS/United States
+GR  - L30 AG043172/AG/NIA NIH HHS/United States
+GR  - R01 AG039659/AG/NIA NIH HHS/United States
+GR  - R01AG039659/AG/NIA NIH HHS/United States
+GR  - UL1TR000064/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20151009
+PL  - England
+TA  - Exp Gerontol
+JT  - Experimental gerontology
+JID - 0047061
+SB  - IM
+PMC - PMC4664177
+MID - NIHMS731224
+OID - NLM: NIHMS731224 [Available on 12/01/16]
+OID - NLM: PMC4664177 [Available on 12/01/16]
+OTO - NOTNLM
+OT  - Acute pain
+OT  - Aging
+OT  - Anti-inflammatory
+OT  - Biomarkers
+OT  - Cytokine
+OT  - Experimental pain
+OT  - Pain
+OT  - Pro-inflammatory
+EDAT- 2015/10/13 06:00
+MHDA- 2015/10/13 06:00
+CRDT- 2015/10/13 06:00
+PMCR- 2016/12/01 00:00
+PHST- 2015/08/12 [received]
+PHST- 2015/09/23 [revised]
+PHST- 2015/09/25 [accepted]
+PHST- 2015/10/09 [aheadofprint]
+AID - S0531-5565(15)30060-7 [pii]
+AID - 10.1016/j.exger.2015.09.017 [doi]
+PST - ppublish
+SO  - Exp Gerontol. 2015 Dec;72:150-6. doi: 10.1016/j.exger.2015.09.017. Epub 2015 Oct 
+      9.
+
+PMID- 26398867
+OWN - NLM
+STAT- Publisher
+DA  - 20150923
+LR  - 20150924
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+DP  - 2015 Sep 23
+TI  - Ising Model of the Chronification of Acute Pain: Editorial.
+LID - 10.1111/pme.12932 [doi]
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, Florida, USA.
+LA  - ENG
+PT  - EDITORIAL
+DEP - 20150923
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+EDAT- 2015/09/24 06:00
+MHDA- 2015/09/24 06:00
+CRDT- 2015/09/24 06:00
+PHST- 2015/08/21 [received]
+PHST- 2015/08/28 [accepted]
+AID - 10.1111/pme.12932 [doi]
+PST - aheadofprint
+SO  - Pain Med. 2015 Sep 23. doi: 10.1111/pme.12932.
+
+PMID- 26247416
+OWN - NLM
+STAT- Publisher
+DA  - 20150806
+LR  - 20160207
+IS  - 1536-5409 (Electronic)
+IS  - 0749-8047 (Linking)
+DP  - 2015 Aug 5
+TI  - Time to Onset of Sustained Postoperative Pain Relief (SuPPR) - Evaluation of a
+      New Systems-Level Metric for Acute Pain Management.
+AB  - OBJECTIVES: Prior work on postoperative pain trajectories have examined pain
+      score changes over time using daily averages of pain scores. However, little is
+      known about the time required until patients consistently report minimal
+      postoperative pain. MATERIALS AND METHODS: We conducted a retrospective cohort
+      study of surgical case data from 7293 adult patients to examine the impact of
+      age, gender, and the type of surgery on the time to sustained postoperative pain 
+      relief (SuPPR). We defined SuPPR as the time required until a patient reports the
+      first of multiple (2, 3, 4, or 5 sequential measurements; e.g., SuPPR-2, SuPPR-3,
+      etc.), uninterrupted, mild pain scores (</=4/10). RESULTS: Overall, SuPPR times
+      ranged from 3 minutes for SuPPR-2 and 9 minutes for SuPPR-5 to 160.1 hour for
+      SuPPR-2 and 183.1 hour for SuPPR-5. For the SuPPR-2 outcome, the median time to
+      event was 10.9 hours (interquartile range [IQR], 3-26.1 h) after surgery. For the
+      SuPPR-5 outcomes, the median time to event was 31.5 hours (IQR, 17.8-54.2 h)
+      after surgery. The peak median difference between two sequential SuPPR
+      definitions was between SuPPR-3 and SuPPR-2 at 9 hours, with subsequent decreases
+      to 6.5 hours between SuPPR-4 and SuPPR-3, and 5.2 hours between SuPPR-5 and
+      SuPPR-4. There were statistically different differences across SuPPR 2 through 5 
+      definitions by age, gender, and type of surgery. DISCUSSION: Although additional 
+      analyses are necessary, SuPPR may represent a novel method for evaluating acute
+      pain service performance.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - *Pain Research and Intervention Center of Excellence (PRICE), University of
+      Florida, Gainesville, FL daggerDepartment of Anesthesiology, University of
+      Florida College of Medicine, Gainesville, FL double daggerDepartment of
+      Biostatistics, University of Florida College of Medicine, Gainesville, FL.
+FAU - King, Christopher D
+AU  - King CD
+FAU - Zou, Baiming
+AU  - Zou B
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+LA  - ENG
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+PT  - JOURNAL ARTICLE
+DEP - 20150805
+TA  - Clin J Pain
+JT  - The Clinical journal of pain
+JID - 8507389
+PMC - PMC4744146
+MID - NIHMS710207
+EDAT- 2015/08/08 06:00
+MHDA- 2015/08/08 06:00
+CRDT- 2015/08/07 06:00
+PMCR- 2017/02/05 00:00
+AID - 10.1097/AJP.0000000000000285 [doi]
+PST - aheadofprint
+SO  - Clin J Pain. 2015 Aug 5.
+
+PMID- 26031220
+OWN - NLM
+STAT- In-Process
+DA  - 20150716
+LR  - 20160218
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 16
+IP  - 7
+DP  - 2015 Jul
+TI  - Teaching a Machine to Feel Postoperative Pain: Combining High-Dimensional
+      Clinical Data with Machine Learning Algorithms to Forecast Acute Postoperative
+      Pain.
+PG  - 1386-401
+LID - 10.1111/pme.12713 [doi]
+AB  - BACKGROUND: Given their ability to process highly dimensional datasets with
+      hundreds of variables, machine learning algorithms may offer one solution to the 
+      vexing challenge of predicting postoperative pain. METHODS: Here, we report on
+      the application of machine learning algorithms to predict postoperative pain
+      outcomes in a retrospective cohort of 8,071 surgical patients using 796 clinical 
+      variables. Five algorithms were compared in terms of their ability to forecast
+      moderate to severe postoperative pain: Least Absolute Shrinkage and Selection
+      Operator (LASSO), gradient-boosted decision tree, support vector machine, neural 
+      network, and k-nearest neighbor (k-NN), with logistic regression included for
+      baseline comparison. RESULTS: In forecasting moderate to severe postoperative
+      pain for postoperative day (POD) 1, the LASSO algorithm, using all 796 variables,
+      had the highest accuracy with an area under the receiver-operating curve (ROC) of
+      0.704. Next, the gradient-boosted decision tree had an ROC of 0.665 and the k-NN 
+      algorithm had an ROC of 0.643. For POD 3, the LASSO algorithm, using all
+      variables, again had the highest accuracy, with an ROC of 0.727. Logistic
+      regression had a lower ROC of 0.5 for predicting pain outcomes on POD 1 and 3.
+      CONCLUSIONS: Machine learning algorithms, when combined with complex and
+      heterogeneous data from electronic medical record systems, can forecast acute
+      postoperative pain outcomes with accuracies similar to methods that rely only on 
+      variables specifically collected for pain outcome prediction.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, Florida, USA.
+FAU - Harle, Christopher A
+AU  - Harle CA
+AD  - Department of Health Services Research, Management and Policy, College of Public 
+      Health and Health Professions, Gainesville, Florida, USA.
+FAU - Hurley, Robert W
+AU  - Hurley RW
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, Florida, USA.
+FAU - Aytug, Haldun
+AU  - Aytug H
+AD  - Department of Information Systems and Operations Management, Warrington College
+      of Business Administration, Gainesville, Florida, USA.
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, Florida, USA.
+AD  - Department of Orthopaedic Surgery and Rehabilitation, University of Florida
+      College of Medicine, Gainesville, Florida, USA.
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+AD  - Department of Community Dentistry and Behavioral Science, University of Florida
+      College of Dentistry, Gainesville, Florida, USA.
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - K23GM102697/GM/NIGMS NIH HHS/United States
+GR  - KL2TR000065/TR/NCATS NIH HHS/United States
+GR  - P30 AG028740/AG/NIA NIH HHS/United States
+GR  - UL1 TR001427/TR/NCATS NIH HHS/United States
+GR  - UL1TR000064/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150529
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+PMC - PMC4504764
+MID - NIHMS661194
+OID - NLM: NIHMS661194 [Available on 07/01/16]
+OID - NLM: PMC4504764 [Available on 07/01/16]
+OTO - NOTNLM
+OT  - Algorithm
+OT  - Machine Learning
+OT  - Pain Prediction
+OT  - Postoperative Pain
+EDAT- 2015/06/03 06:00
+MHDA- 2015/06/03 06:00
+CRDT- 2015/06/03 06:00
+PMCR- 2016/07/01 00:00
+PHST- 2015/01/24 [received]
+PHST- 2015/01/15 [revised]
+PHST- 2015/01/19 [accepted]
+PHST- 2015/05/29 [aheadofprint]
+AID - 10.1111/pme.12713 [doi]
+PST - ppublish
+SO  - Pain Med. 2015 Jul;16(7):1386-401. doi: 10.1111/pme.12713. Epub 2015 May 29.
+
+PMID- 25843553
+OWN - NLM
+STAT- MEDLINE
+DA  - 20150406
+DCOM- 20151112
+LR  - 20160218
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 17
+IP  - 4
+DP  - 2015
+TI  - The painful tweet: text, sentiment, and community structure analyses of tweets
+      pertaining to pain.
+PG  - e84
+LID - 10.2196/jmir.3769 [doi]
+AB  - BACKGROUND: Despite the widespread popularity of social media, little is known
+      about the extent or context of pain-related posts by users of those media.
+      OBJECTIVE: The aim was to examine the type, context, and dissemination of
+      pain-related tweets. METHODS: We used content analysis of pain-related tweets
+      from 50 cities to unobtrusively explore the meanings and patterns of
+      communications about pain. Content was examined by location and time of day, as
+      well as within the context of online social networks. RESULTS: The most common
+      terms published in conjunction with the term "pain" included feel (n=1504), don't
+      (n=702), and love (n=649). The proportion of tweets with positive sentiment
+      ranged from 13% in Manila to 56% in Los Angeles, CA, with a median of 29% across 
+      cities. Temporally, the proportion of tweets with positive sentiment ranged from 
+      24% at 1600 to 38% at 2400, with a median of 32%. The Twitter-based social
+      networks pertaining to pain exhibited greater sparsity and lower connectedness
+      than did those social networks pertaining to common terms such as apple,
+      Manchester United, and Obama. The number of word clusters in proportion to node
+      count was greater for emotion terms such as tired (0.45), happy (0.43), and sad
+      (0.4) when compared with objective terms such as apple (0.26), Manchester United 
+      (0.14), and Obama (0.25). CONCLUSIONS: Taken together, our results suggest that
+      pain-related tweets carry special characteristics reflecting unique content and
+      their communication among tweeters. Further work will explore how geopolitical
+      events and seasonal changes affect tweeters' perceptions of pain and how such
+      perceptions may affect therapies for pain.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AUID- ORCID: http://orcid.org/0000-0002-1881-9941
+AD  - University of Florida College of Medicine, Department of Anesthesiology,
+      Gainesville, FL, United States. ptighe@anest.ufl.edu.
+FAU - Goldsmith, Ryan C
+AU  - Goldsmith RC
+AUID- ORCID: http://orcid.org/0000-0001-8162-2159
+FAU - Gravenstein, Michael
+AU  - Gravenstein M
+AUID- ORCID: http://orcid.org/0000-0001-6400-4789
+FAU - Bernard, H Russell
+AU  - Bernard HR
+AUID- ORCID: http://orcid.org/0000-0002-1367-2813
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+AUID- ORCID: http://orcid.org/0000-0002-7699-8183
+LA  - eng
+GR  - K23 GM 102697/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - P30 AG028740/AG/NIA NIH HHS/United States
+GR  - UL1 TR001427/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150402
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Humans
+MH  - *Internet
+MH  - *Pain
+MH  - Philippines
+MH  - Social Media
+MH  - Social Networking
+PMC - PMC4400316
+OID - NLM: PMC4400316
+OTO - NOTNLM
+OT  - Twitter messaging
+OT  - emotions
+OT  - social networks
+OT  - text mining
+EDAT- 2015/04/07 06:00
+MHDA- 2015/11/13 06:00
+CRDT- 2015/04/07 06:00
+PHST- 2014/08/22 [received]
+PHST- 2015/01/21 [accepted]
+PHST- 2014/12/17 [revised]
+AID - v17i4e84 [pii]
+AID - 10.2196/jmir.3769 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2015 Apr 2;17(4):e84. doi: 10.2196/jmir.3769.
+
+PMID- 25790453
+OWN - NLM
+STAT- MEDLINE
+DA  - 20150320
+DCOM- 20151201
+LR  - 20160218
+IS  - 1872-6623 (Electronic)
+IS  - 0304-3959 (Linking)
+VI  - 156
+IP  - 4
+DP  - 2015 Apr
+TI  - Clinically derived early postoperative pain trajectories differ by age, sex, and 
+      type of surgery.
+PG  - 609-17
+LID - 10.1097/01.j.pain.0000460352.07836.0d [doi]
+AB  - The objective of this study was to determine the effects of age, sex, and type of
+      surgery on postoperative pain trajectories derived in a clinical setting from
+      pain assessments in the first 24 hours after surgery. This study is a
+      retrospective cohort study using a large electronic medical records system to
+      collect and analyze surgical case data. The sample population included adult
+      patients undergoing nonambulatory nonobstetric surgery in a single institution
+      over a 1-year period. Analyses of postoperative pain trajectories were performed 
+      using a linear mixed-effects model. Pain score observations (91,708) from 7293
+      patients were included in the statistical analysis. On average, the pain score
+      decreased about 0.042 (95% confidence interval [CI]: -0.044 to -0.040) points on 
+      the numerical rating scale (NRS) per hour after surgery for the first 24
+      postoperative hours. The pain score reported by male patients was approximately
+      0.27 (95% CI: -0.380 to -0.168) NRS points lower than that reported by females.
+      Pain scores significantly decreased over time in all age groups, with a slightly 
+      more rapid decrease for younger patients. Pain trajectories differed by anatomic 
+      location of surgery, ranging from -0.054 (95% CI: -0.062 to -0.046) NRS units per
+      hour for integumentary and nervous surgery to -0.104 (95% CI: -0.110 to -0.098)
+      NRS units per hour for digestive surgery, and a positive trajectory (0.02 [95%
+      CI: 0.016 to 0.024] NRS units per hour) for musculoskeletal surgery. Our data
+      support the important role of time after surgery in considering the influence of 
+      biopsychosocial and clinical factors on acute postoperative pain.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - aDepartment of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL, USA bUniversity of Florida College of Medicine, Gainesville, FL,
+      USA cDepartment of Biostatistics, University of Florida College of Medicine,
+      Gainesville, FL, USA dDepartment of Community Dentistry and Behavioral Science,
+      University of Florida College of Dentistry, Gainesville, FL, USA.
+FAU - Le-Wendling, Linda T
+AU  - Le-Wendling LT
+FAU - Patel, Ameet
+AU  - Patel A
+FAU - Zou, Baiming
+AU  - Zou B
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - P30 AG028740/AG/NIA NIH HHS/United States
+GR  - UL1 TR001427/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Pain
+JT  - Pain
+JID - 7508686
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Aging
+MH  - Cohort Studies
+MH  - Female
+MH  - *General Surgery
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Models, Statistical
+MH  - Pain Measurement
+MH  - Pain, Postoperative/*epidemiology/*etiology
+MH  - Risk Factors
+MH  - *Sex Characteristics
+MH  - Young Adult
+PMC - PMC4367128
+MID - NIHMS650545
+OID - NLM: NIHMS650545 [Available on 04/01/16]
+OID - NLM: PMC4367128 [Available on 04/01/16]
+EDAT- 2015/03/20 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2015/03/20 06:00
+PMCR- 2016/04/01 00:00
+AID - 10.1097/01.j.pain.0000460352.07836.0d [doi]
+AID - 00006396-201504000-00007 [pii]
+PST - ppublish
+SO  - Pain. 2015 Apr;156(4):609-17. doi: 10.1097/01.j.pain.0000460352.07836.0d.
+
+PMID- 25039440
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140818
+DCOM- 20150616
+LR  - 20150805
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 15
+IP  - 8
+DP  - 2014 Aug
+TI  - Sex differences in the incidence of severe pain events following surgery: a
+      review of 333,000 pain scores.
+PG  - 1390-404
+LID - 10.1111/pme.12498 [doi]
+AB  - OBJECTIVE/BACKGROUND: Prior work has not addressed sex differences in the
+      incidence of severe postoperative pain episodes. The goal of this study was to
+      examine sex differences in clinical postoperative pain scores across an array of 
+      surgical procedures using direct comparisons of numeric rating scale pain scores 
+      as well as using the incidence of severe pain events (SPEs). DESIGN/SETTING:
+      Retrospective cohort study of over 300,000 clinical pain score observations
+      recorded from adult patients undergoing nonambulatory surgery at a tertiary care 
+      academic medical center over a 1-year period. METHODS/PATIENTS: To test the
+      hypothesis that the number of SPE on postoperative day (POD) 1 differed by sex
+      after controlling for procedure, we calculated Cochran-Mantel-Haenszel statistics
+      of sex by count of SPE, controlling for type of surgery. ASSESSMENT
+      TOOLS/OUTCOMES: Pain scores were collected from clinical nursing records where
+      they were documented using the numeric rating scale. RESULTS: In female patients,
+      10,989 (25.09%) of 43,806 POD 1 pain scores were considered SPE compared with
+      10,786 (22.45%) of 48,055 POD 1 pain scores in male patients. This produced an
+      overall odds ratio of 1.16 (99% confidence interval 1.11-1.20) for females vs
+      males to report an SPE for a pain score on POD 1. Estimates of the odds that a
+      given pain observation represents an SPE for female vs male patients after
+      controlling for type of surgery yielded an odds ratio of 1.14 (99% confidence
+      interval, 1.10-1.19). CONCLUSION: Female patients experience greater mean pain
+      scores, as well as a higher incidence of SPE, on POD 1 for a variety of surgical 
+      procedures.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, College of Medicine, University of Florida,
+      Gainesville, Florida, USA.
+FAU - Riley, Joseph L 3rd
+AU  - Riley JL 3rd
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20140708
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Pain, Postoperative/*epidemiology
+MH  - Retrospective Studies
+MH  - *Sex Characteristics
+MH  - Young Adult
+PMC - PMC4420194
+MID - NIHMS685079
+OID - NLM: NIHMS685079
+OID - NLM: PMC4420194
+OTO - NOTNLM
+OT  - Gender
+OT  - Numeric Rating Scale
+OT  - Pain
+OT  - Severe Pain Event
+OT  - Sex
+OT  - Surgery
+EDAT- 2014/07/22 06:00
+MHDA- 2015/06/17 06:00
+CRDT- 2014/07/22 06:00
+PHST- 2014/07/08 [aheadofprint]
+AID - 10.1111/pme.12498 [doi]
+PST - ppublish
+SO  - Pain Med. 2014 Aug;15(8):1390-404. doi: 10.1111/pme.12498. Epub 2014 Jul 8.
+
+PMID- 24525273
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140415
+DCOM- 20141218
+LR  - 20150515
+IS  - 1872-6623 (Electronic)
+IS  - 0304-3959 (Linking)
+VI  - 155
+IP  - 5
+DP  - 2014 May
+TI  - Geospatial analysis of hospital consumer assessment of healthcare providers and
+      systems pain management experience scores in U.S. hospitals.
+PG  - 1016-26
+LID - 10.1016/j.pain.2014.02.003 [doi]
+LID - S0304-3959(14)00057-8 [pii]
+AB  - Although prior work has investigated the interplay between demographic and
+      intrasurvey correlations of Hospital Consumer Assessment of Healthcare Providers 
+      and Systems (HCAHPS) scores, these prior studies have not included geospatial
+      analyses, or analyses that take into account location effects. Here, we report
+      the results of a geospatial analysis (not equivalent to simple geographical
+      analysis) of patient experience scores pertaining to pain. HCAHPS data collected 
+      in 2011 were examined to test the hypothesis that HCAHPS patient experience with 
+      pain management (PEPM) scores were geospatially distributed throughout the United
+      States using Moran's Index, which measures the association between PEPM scores
+      and hospital location. After limiting the dataset to hospitals in the continental
+      United States with nonzero HCAHPS response rates, 3645 hospitals were included in
+      the analyses. "Always" responses were geospatially clustered amongst the analyzed
+      hospitals. Clustering was significant in all distances tested from 10 to 5000km
+      (P<0.0001). We identified 6 demarcated groups of hospitals. Taken together, these
+      results strongly suggest a regional geographic effect on PEPM scores. These
+      results may carry policy implications for U.S. hospitals with regard to acute
+      pain outcomes. Further analyses will be necessary to evaluate policy explanations
+      and implications of the regional geographic differences in PEPM results.
+CI  - Copyright (c) 2014 International Association for the Study of Pain. Published by 
+      Elsevier B.V. All rights reserved.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL, USA. Electronic address: ptighe@anest.ufl.edu.
+FAU - Fillingim, Roger B
+AU  - Fillingim RB
+AD  - Department of Community Dentistry, University of Florida College of Dentistry,
+      Gainesville, FL, USA.
+FAU - Hurley, Robert W
+AU  - Hurley RW
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL, USA.
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140210
+PL  - Netherlands
+TA  - Pain
+JT  - Pain
+JID - 7508686
+SB  - IM
+MH  - Delivery of Health Care/*standards
+MH  - Health Care Surveys
+MH  - Health Policy
+MH  - Humans
+MH  - Pain Management/*standards
+MH  - *Patient Satisfaction
+MH  - United States
+PMC - PMC4086258
+MID - NIHMS576996
+OID - NLM: NIHMS576996
+OID - NLM: PMC4086258
+OTO - NOTNLM
+OT  - Demographics
+OT  - Geographical
+OT  - Geospatial
+OT  - Pain management scores
+EDAT- 2014/02/15 06:00
+MHDA- 2014/12/19 06:00
+CRDT- 2014/02/15 06:00
+PHST- 2013/05/31 [received]
+PHST- 2014/01/22 [revised]
+PHST- 2014/02/05 [accepted]
+PHST- 2014/02/10 [aheadofprint]
+AID - S0304-3959(14)00057-8 [pii]
+AID - 10.1016/j.pain.2014.02.003 [doi]
+PST - ppublish
+SO  - Pain. 2014 May;155(5):1016-26. doi: 10.1016/j.pain.2014.02.003. Epub 2014 Feb 10.
+
+PMID- 24381730
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DA  - 20140101
+DCOM- 20140624
+LR  - 20150727
+IS  - 2051-7599 (Electronic)
+IS  - 2051-7599 (Linking)
+VI  - 5
+DP  - 2013
+TI  - Acute pain medicine in anesthesiology.
+PG  - 54
+LID - 10.12703/P5-54 [doi]
+AB  - The American Academy of Pain Medicine and the American Society for Regional
+      Anesthesia have recently focused on the evolving practice of acute pain medicine.
+      There is increasing recognition that the scope and practice of acute pain
+      therapies must extend beyond the subacute pain phase to include pre-pain and
+      pre-intervention risk stratification, resident and fellow education in regional
+      anesthesia and multimodal analgesia, as well as a deeper understanding of the
+      pathophysiologic mechanisms that are integral to the variability observed among
+      individual responses to nociception. Acute pain medicine is also being
+      established as a vital component of successful systems-level acute pain
+      management programs, inpatient cost containment, and patient satisfaction scores.
+      In this review, we discuss the evolution and practice of acute pain medicine and 
+      we aim to facilitate further discussion on the evolution and advancement of this 
+      field as a subspecialty of anesthesiology.
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+AD  - Department of Orthopaedic Surgery, University of Florida College of Medicine 1600
+      SW Archer Road, PO Box 100254, Gainesville, FL 32610 USA ; Department of
+      Anesthesiology, Division of Acute and Perioperative Pain Medicine, University of 
+      Florida College of Medicine 1600 SW Archer Road, PO Box 100254, Gainesville, FL
+      32610 USA.
+FAU - Munro, Anastacia P
+AU  - Munro AP
+AD  - Department of Anesthesiology, Division of Acute and Perioperative Pain Medicine, 
+      University of Florida College of Medicine 1600 SW Archer Road, PO Box 100254,
+      Gainesville, FL 32610 USA.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, Division of Acute and Perioperative Pain Medicine, 
+      University of Florida College of Medicine 1600 SW Archer Road, PO Box 100254,
+      Gainesville, FL 32610 USA.
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20131203
+PL  - England
+TA  - F1000Prime Rep
+JT  - F1000prime reports
+JID - 101599397
+PMC - PMC3854690
+OID - NLM: PMC3854690
+EDAT- 2014/01/02 06:00
+MHDA- 2014/01/02 06:01
+CRDT- 2014/01/02 06:00
+PHST- 2013 [ecollection]
+PHST- 2013/12/03 [epublish]
+AID - 10.12703/P5-54 [doi]
+AID - 54 [pii]
+PST - epublish
+SO  - F1000Prime Rep. 2013 Dec 3;5:54. doi: 10.12703/P5-54.
+
+PMID- 24308744
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140214
+DCOM- 20141001
+LR  - 20150422
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 15
+IP  - 2
+DP  - 2014 Feb
+TI  - Of rough starts and smooth finishes: correlations between post-anesthesia care
+      unit and postoperative days 1-5 pain scores.
+PG  - 306-15
+LID - 10.1111/pme.12287 [doi]
+AB  - OBJECTIVE: The goal of this project was to explore the association between
+      post-anesthesia care unit (PACU) pain scores recorded within the first and second
+      hour of the end of surgery with maximum and median pain scores recorded on
+      postoperative days (PODs) 1 through 5. DESIGN: This study was a retrospective
+      cohort study of clinically documented pain scores in a mixed surgical population.
+      SETTING: This study was set in a single tertiary-care teaching hospital over a
+      1-year time period. PATIENTS: All patients were adult patients undergoing a
+      single, non-ambulatory, non-obstetric surgical procedure. MEASURES: Pain scores, 
+      measured using the numerical rating scale, from PODs 0 through 5 were obtained
+      from an integrated data repository. Kendall's Tau-b correlations were then
+      calculated between maximum pain scores occurring within each of the two PACU time
+      periods and maximum and median pain scores in each of the five ensuing PODs.
+      RESULTS: A total of 349,797 pain scores from 8,332 patients were reviewed.
+      Correlations between maximum pain score by time period demonstrated a significant
+      and high correlation at Tau-b = 0.86, between 1-hour PACU pain scores and 2-hour 
+      PACU pain scores. However, the correlation of maximum pain scores recorded in the
+      PACU with those recorded on PODs 1 through 5 was significantly lower, ranging
+      from 0.19 to 0.27. The correlation of maximum PACU pain score with median pain
+      scores recorded on PODs 1 through 5 ranged from 0.22 to 0.29. The correlation
+      structures of the PODs 1 through 5 median pain scores may be consistent with an
+      autoregressive pattern. CONCLUSIONS: Maximum scores measured within the PACU
+      likely reflect a set of circumstances distinct from those experienced on PODs 1
+      through 5.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick James
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida, Gainesville, Florida, USA.
+FAU - Harle, Christopher A
+AU  - Harle CA
+FAU - Boezaart, Andre Pierre
+AU  - Boezaart AP
+FAU - Aytug, Haldun
+AU  - Aytug H
+FAU - Fillingim, Roger
+AU  - Fillingim R
+LA  - eng
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20131205
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Anesthesia Recovery Period
+MH  - Cohort Studies
+MH  - Female
+MH  - Hospital Units
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pain, Postoperative/*epidemiology
+MH  - Retrospective Studies
+MH  - Time Factors
+MH  - Young Adult
+PMC - PMC4086300
+MID - NIHMS593421
+OID - NLM: NIHMS593421
+OID - NLM: PMC4086300
+OTO - NOTNLM
+OT  - Anesthesia
+OT  - Correlation Structure
+OT  - Pain
+OT  - Recovery Room
+OT  - Surgery
+OT  - Trajectory
+EDAT- 2013/12/07 06:00
+MHDA- 2014/10/02 06:00
+CRDT- 2013/12/07 06:00
+PHST- 2013/12/05 [aheadofprint]
+AID - 10.1111/pme.12287 [doi]
+PST - ppublish
+SO  - Pain Med. 2014 Feb;15(2):306-15. doi: 10.1111/pme.12287. Epub 2013 Dec 5.
+
+PMID- 23241132
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130116
+DCOM- 20130801
+LR  - 20151119
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2013 Jan
+TI  - The evolution and practice of acute pain medicine.
+PG  - 124-44
+LID - 10.1111/pme.12015 [doi]
+AB  - BACKGROUND: In recent years, the field of acute pain medicine (APM) has witnessed
+      a surge in its development, and pain has begun to be recognized not merely as a
+      symptom, but as an actual disease process. This development warrants increased
+      education of residents both in the performance of regional anesthesia as well as 
+      in the disease course of acute pain and the biopsychosocial mechanisms that
+      define interindividual variability. REVIEW SUMMARY: We reviewed the organization 
+      and function of the modern APM program. Following a discussion of the
+      nomenclature of acute pain-related practices, we discuss the historical evolution
+      and modern role of APM teams, including the use of traditional, as well as
+      complementary and alternative, therapies for treating acute pain. Staffing and
+      equipment requirements are also evaluated, in addition to the training
+      requirements for achieving expertise in APM. Lastly, we briefly explore future
+      considerations related to the essential role and development of APM. CONCLUSION: 
+      The scope and practice of APM must be expanded to include
+      pre-pain/pre-intervention risk stratification and extended through the phase of
+      subacute pain.
+CI  - Wiley Periodicals, Inc.
+FAU - Upp, Justin
+AU  - Upp J
+AD  - Walter Reed National Military Medical Center, Bethesda, Maryland, USA.
+FAU - Kent, Michael
+AU  - Kent M
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+LA  - eng
+GR  - K23 GM 102697/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - UL1 RR029890/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20121213
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - Acute Pain/*diagnosis/*therapy
+MH  - Humans
+MH  - Pain Management/*methods/*trends
+MH  - Pain Measurement/*methods/*trends
+MH  - Practice Patterns, Physicians'/*trends
+PMC - PMC3547126
+MID - NIHMS420245
+OID - NLM: NIHMS420245
+OID - NLM: PMC3547126
+EDAT- 2012/12/18 06:00
+MHDA- 2013/08/02 06:00
+CRDT- 2012/12/18 06:00
+PHST- 2012/12/13 [aheadofprint]
+AID - 10.1111/pme.12015 [doi]
+PST - ppublish
+SO  - Pain Med. 2013 Jan;14(1):124-44. doi: 10.1111/pme.12015. Epub 2012 Dec 13.
+
+PMID- 22958457
+OWN - NLM
+STAT- MEDLINE
+DA  - 20121016
+DCOM- 20130501
+LR  - 20150223
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 13
+IP  - 10
+DP  - 2012 Oct
+TI  - Use of machine-learning classifiers to predict requests for preoperative acute
+      pain service consultation.
+PG  - 1347-57
+LID - 10.1111/j.1526-4637.2012.01477.x [doi]
+AB  - OBJECTIVE: The purpose of this project was to determine whether machine-learning 
+      classifiers could predict which patients would require a preoperative acute pain 
+      service (APS) consultation. DESIGN: Retrospective cohort. SETTING: University
+      teaching hospital. SUBJECTS: The records of 9,860 surgical patients posted
+      between January 1 and June 30, 2010 were reviewed. OUTCOME MEASURES: Request for 
+      APS consultation. A cohort of machine-learning classifiers was compared according
+      to its ability or inability to classify surgical cases as requiring a request for
+      a preoperative APS consultation. Classifiers were then optimized utilizing
+      ensemble techniques. Computational efficiency was measured with the central
+      processing unit processing times required for model training. Classifiers were
+      tested using the full feature set, as well as the reduced feature set that was
+      optimized using a merit-based dimensional reduction strategy. RESULTS:
+      Machine-learning classifiers correctly predicted preoperative requests for APS
+      consultations in 92.3% (95% confidence intervals [CI], 91.8-92.8) of all surgical
+      cases. Bayesian methods yielded the highest area under the receiver operating
+      curve (0.87, 95% CI 0.84-0.89) and lowest training times (0.0018 seconds, 95% CI,
+      0.0017-0.0019 for the NaiveBayesUpdateable algorithm). An ensemble of
+      high-performing machine-learning classifiers did not yield a higher area under
+      the receiver operating curve than its component classifiers. Dimensional
+      reduction decreased the computational requirements for multiple classifiers, but 
+      did not adversely affect classification performance. CONCLUSIONS: Using
+      historical data, machine-learning classifiers can predict which surgical cases
+      should prompt a preoperative request for an APS consultation. Dimensional
+      reduction improved computational efficiency and preserved predictive performance.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL 32610, USA. ptighe@anest.ufl.edu
+FAU - Lucas, Stephen D
+AU  - Lucas SD
+FAU - Edwards, David A
+AU  - Edwards DA
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+FAU - Aytug, Haldun
+AU  - Aytug H
+FAU - Bihorac, Azra
+AU  - Bihorac A
+LA  - eng
+GR  - K23 GM087709/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - K23 GM102697/GM/NIGMS NIH HHS/United States
+GR  - K23GM087709/GM/NIGMS NIH HHS/United States
+GR  - UL1 RR029890/RR/NCRR NIH HHS/United States
+GR  - UL1 RR029890/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20120907
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - *Artificial Intelligence
+MH  - Bayes Theorem
+MH  - Cohort Studies
+MH  - Humans
+MH  - Pain Clinics/*utilization
+MH  - *Pain, Postoperative
+MH  - *Referral and Consultation
+MH  - Retrospective Studies
+PMC - PMC4012229
+MID - NIHMS398255
+OID - NLM: NIHMS398255
+OID - NLM: PMC4012229
+EDAT- 2012/09/11 06:00
+MHDA- 2013/05/02 06:00
+CRDT- 2012/09/11 06:00
+PHST- 2012/09/07 [aheadofprint]
+AID - 10.1111/j.1526-4637.2012.01477.x [doi]
+PST - ppublish
+SO  - Pain Med. 2012 Oct;13(10):1347-57. doi: 10.1111/j.1526-4637.2012.01477.x. Epub
+      2012 Sep 7.
+
+PMID- 22568636
+OWN - NLM
+STAT- MEDLINE
+DA  - 20120615
+DCOM- 20130708
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 13
+IP  - 6
+DP  - 2012 Jun
+TI  - Social network analysis and quantification of a prototypical acute pain medicine 
+      and regional anesthesia service.
+PG  - 808-19
+LID - 10.1111/j.1526-4637.2012.01379.x [doi]
+AB  - OBJECTIVE: The objective of this study was to quantify the network complexity,
+      information flow, and effect of critical-node failures on a prototypical regional
+      anesthesia and perioperative pain medicine (RAPPM) service using social network
+      analysis. DESIGN: Pilot cross-sectional investigation. SETTING: This study was
+      conducted at a prototypical single-center, multi-location academic anesthesiology
+      department with an active RAPPM service. INTERVENTIONS: We constructed an
+      empirically derived prototypical social network representative of a large
+      academic RAPPM service. OUTCOME MEASURES: The primary objective was measurement
+      of network complexity via network size, structure, and information flow metrics. 
+      The secondary objective identified, via network simulation, those nodes whose
+      deletion via single, two-level, or three-level node failures would result in the 
+      greatest network fragmentation. Exploratory analyses measured the impact of nodal
+      failures on the resulting network complexity. RESULTS: The baseline network
+      consisted of 84 nodes and 208 edges with a low density of 0.03 and high
+      Krackhardt hierarchy of 0.787. Nodes exhibited low average total degree
+      centrality (mean +/- standard deviation [SD]) of 0.03 +/- 0.034 and mean
+      eigenvector centrality of 0.164 +/- 0.182. The RAPPM resident-on-call was
+      identified as the critical node in a single-node failure, with the resulting
+      network fragmentation increasing from 0 to 0.52 upon node failure. A two-level
+      failure involved both the RAPPM resident-on-call as well as the RAPPM
+      attending-on-call, with the resulting fragmentation expanding to 0.772. A
+      three-level node failure included the RAPPM resident-on-call, the main block-room
+      attending, and block room fellow with fragmentation increasing to 0.814.
+      CONCLUSIONS: The RAPPM service entails considerable network complexity and
+      increased hierarchy, but low centrality. The network is at considerable
+      fragmentation risk from even single-node failure.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL, USA. ptighe@anest.ufl.edu
+FAU - Smith, J Cole
+AU  - Smith JC
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+FAU - Lucas, Stephen D
+AU  - Lucas SD
+LA  - eng
+PT  - Journal Article
+DEP - 20120508
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - Anesthesia Department, Hospital/*organization & administration
+MH  - *Communication
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - *Pain Management
+MH  - Pilot Projects
+EDAT- 2012/05/10 06:00
+MHDA- 2013/07/09 06:00
+CRDT- 2012/05/10 06:00
+PHST- 2012/05/08 [aheadofprint]
+AID - 10.1111/j.1526-4637.2012.01379.x [doi]
+PST - ppublish
+SO  - Pain Med. 2012 Jun;13(6):808-19. doi: 10.1111/j.1526-4637.2012.01379.x. Epub 2012
+      May 8.
+
+PMID- 22430024
+OWN - NLM
+STAT- MEDLINE
+DA  - 20120425
+DCOM- 20120821
+LR  - 20150225
+IS  - 1532-8651 (Electronic)
+IS  - 1098-7339 (Linking)
+VI  - 37
+IP  - 3
+DP  - 2012 May-Jun
+TI  - Primary payer status is associated with the use of nerve block placement for
+      ambulatory orthopedic surgery.
+PG  - 254-61
+LID - 10.1097/AAP.0b013e31824889b6 [doi]
+AB  - INTRODUCTION: Although more than 30 million patients in the United States undergo
+      ambulatory surgery each year, it remains unclear what percentage of these
+      patients receive a perioperative nerve block. We reviewed data from the 2006
+      National Survey of Ambulatory Surgery to determine the demographic,
+      socioeconomic, geographic, and clinical factors associated with the likelihood of
+      nerve block placement for ambulatory orthopedic surgery. The primary outcome of
+      interest was the association between primary method of payment and likelihood of 
+      nerve block placement. In addition, we examined the association between type of
+      surgical procedures, patient demographics, and hospital characteristics with the 
+      likelihood of receiving a nerve block. METHODS: This cross-sectional study
+      reviewed 6000 orthopedic anesthetics from the 2006 National Survey of Ambulatory 
+      Surgery data set, which accounted for more than 3.9 million orthopedic
+      anesthetics when weighted. The primary outcome of this study addressed the
+      likelihood of receiving a nerve block for orthopedic ambulatory surgery according
+      to the patient's primary method of payment. Secondary end points included
+      differences in demographics, surgical procedures, adverse effects, complications,
+      recovery profile, anesthesia staffing model, and total perioperative charges in
+      those with and without nerve block. RESULTS: Overall, 14.9% of anesthetics in
+      this sample involved a peripheral nerve block. Length of time in postoperative
+      recovery, total perioperative time, and total charges were less for those
+      receiving nerve blocks. Patients were more likely to receive a nerve block if
+      their procedures were performed in metropolitan service areas (odds ratio [OR],
+      1.86; 95% confidence interval [CI], 1.19-2.91; P = 0.007) or in freestanding
+      surgical facilities (OR, 2.27; 95% CI, 1.74-2.96; P < 0.0001) and if payment for 
+      their surgery was supported by government programs (OR, 2.5; 95% CI, 1.01-6.21; P
+      = 0.048) or private insurance (OR, 2.62; 95% CI, 1.12-6.13; P = 0.03) versus
+      self-pay or charity care. CONCLUSIONS: For patients receiving ambulatory
+      orthopedic surgery in the United States, our results suggest that geographic and 
+      socioeconomic factors are associated with different likelihoods of perioperative 
+      peripheral nerve block placement.
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+AD  - College of Medicine, University of Florida, Gainesville; and daggerCollege of
+      Medicine, University of Miami, Miami, FL, USA. ptighe@anest.ufl.edu
+FAU - Brennan, Meghan
+AU  - Brennan M
+FAU - Moser, Michael
+AU  - Moser M
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+FAU - Bihorac, Azra
+AU  - Bihorac A
+LA  - eng
+GR  - K23 GM087709/GM/NIGMS NIH HHS/United States
+GR  - UL1 RR029890/RR/NCRR NIH HHS/United States
+GR  - UL1 RR029890/RR/NCRR NIH HHS/United States
+GR  - UL1 RR029890-01/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Reg Anesth Pain Med
+JT  - Regional anesthesia and pain medicine
+JID - 9804508
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Ambulatory Surgical Procedures/*economics
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - *Health Care Costs
+MH  - Health Care Surveys
+MH  - Health Facilities/economics
+MH  - Health Services Accessibility/*economics
+MH  - Humans
+MH  - Insurance Coverage/*economics
+MH  - Insurance, Health, Reimbursement/*economics
+MH  - Logistic Models
+MH  - Male
+MH  - Medical Assistance/economics
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Nerve Block/*economics
+MH  - Odds Ratio
+MH  - Orthopedic Procedures/*economics
+MH  - Private Sector/economics
+MH  - Residence Characteristics
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Socioeconomic Factors
+MH  - United States
+MH  - Urban Health Services/economics
+MH  - Young Adult
+PMC - PMC3337363
+MID - NIHMS353243
+OID - NLM: NIHMS353243
+OID - NLM: PMC3337363
+EDAT- 2012/03/21 06:00
+MHDA- 2012/08/22 06:00
+CRDT- 2012/03/21 06:00
+AID - 10.1097/AAP.0b013e31824889b6 [doi]
+PST - ppublish
+SO  - Reg Anesth Pain Med. 2012 May-Jun;37(3):254-61. doi:
+      10.1097/AAP.0b013e31824889b6.
+
+PMID- 21899717
+OWN - NLM
+STAT- MEDLINE
+DA  - 20111024
+DCOM- 20120227
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Linking)
+VI  - 12
+IP  - 10
+DP  - 2011 Oct
+TI  - Use of machine learning theory to predict the need for femoral nerve block
+      following ACL repair.
+PG  - 1566-75
+LID - 10.1111/j.1526-4637.2011.01228.x [doi]
+AB  - OBJECTIVE: We report on a classification approach using machine learning (ML)
+      algorithms for prediction of postoperative femoral nerve block (FNB) requirement 
+      following anterior cruciate ligament (ACL) reconstruction. BACKGROUND: FNBs are
+      commonly performed for ACL reconstruction to control postoperative pain. Ideally,
+      anesthesiologists would target preoperative FNB only to ACL reconstruction
+      patients expected to experience severe postoperative pain. Perioperative factors 
+      associated with postoperative FNB placement following ACL reconstruction remain
+      unclear, may differ among separate surgical facilities, and render such
+      predictions difficult. METHODS: We conducted a chart review of 349 patients who
+      underwent ACL reconstruction at a single outpatient surgical facility. Standard
+      perioperative data commonly available during routine preoperative examination
+      were recorded. ML classifiers based on logistic regression, BayesNet, multilayer 
+      perceptron, support vector machine, and alternating decision tree (ADTree)
+      algorithms were then developed to predict which patients would require
+      postoperative FNB. RESULTS: Each of the ML algorithms outperformed traditional
+      logistic regression using a very limited data set as measured by the area under
+      the receiver operating curve, with ADTree achieving the highest score of 0.7 in
+      the cross-validated sample. Logistic regression outperformed all other
+      classifiers with regard to kappa statistics and percent correctly classified. All
+      models were prone to overfitting in comparisons of training vs cross-validated
+      samples. CONCLUSION: ML classifiers may offer improved predictive capabilities
+      when analyzing medical data sets compared with traditional statistical
+      methodologies in predicting severe postoperative pain requiring peripheral nerve 
+      block.
+CI  - Wiley Periodicals, Inc.
+FAU - Tighe, Patrick
+AU  - Tighe P
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL 32610-0254, USA. ptighe@anest.ufl.edu
+FAU - Laduzenski, Sarah
+AU  - Laduzenski S
+FAU - Edwards, David
+AU  - Edwards D
+FAU - Ellis, Neal
+AU  - Ellis N
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+FAU - Aygtug, Haldun
+AU  - Aygtug H
+LA  - eng
+PT  - Journal Article
+DEP - 20110907
+PL  - United States
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+RN  - 0 (Analgesics)
+SB  - IM
+CIN - Pain Med. 2011 Oct;12(10):1450-2. PMID: 22018028
+MH  - Algorithms
+MH  - *Analgesics/pharmacology/therapeutic use
+MH  - Anterior Cruciate Ligament/*surgery
+MH  - *Artificial Intelligence
+MH  - Bayes Theorem
+MH  - Female
+MH  - Femoral Nerve/*drug effects
+MH  - Humans
+MH  - *Models, Theoretical
+MH  - Nerve Block/*methods
+MH  - Pain, Postoperative/*therapy
+MH  - Reconstructive Surgical Procedures/methods
+MH  - Retrospective Studies
+MH  - Wound Healing
+EDAT- 2011/09/09 06:00
+MHDA- 2012/03/01 06:00
+CRDT- 2011/09/09 06:00
+PHST- 2011/09/07 [aheadofprint]
+AID - 10.1111/j.1526-4637.2011.01228.x [doi]
+PST - ppublish
+SO  - Pain Med. 2011 Oct;12(10):1566-75. doi: 10.1111/j.1526-4637.2011.01228.x. Epub
+      2011 Sep 7.
+
+PMID- 21697674
+OWN - NLM
+STAT- MEDLINE
+DA  - 20110623
+DCOM- 20111021
+IS  - 1537-1913 (Electronic)
+IS  - 0020-5907 (Linking)
+VI  - 49
+IP  - 3
+DP  - 2011 Summer
+TI  - The progression of regional anesthesia into acute and perioperative pain
+      medicine.
+PG  - 104-9
+LID - 10.1097/AIA.0b013e31821a0272 [doi]
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+AD  - Department of Anesthesiology, University of Florida College of Medicine
+      Gainesville, Florida 32610-0254, USA. aboezaart@anest.ufl.edu
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Int Anesthesiol Clin
+JT  - International anesthesiology clinics
+JID - 0370760
+SB  - IM
+MH  - Acute Disease
+MH  - Anesthesia, Conduction/*methods
+MH  - Anesthesiology/education/methods
+MH  - Humans
+MH  - Nerve Block/*methods
+MH  - Pain/drug therapy/physiopathology
+MH  - Pain, Postoperative/physiopathology/*prevention & control
+MH  - Perioperative Care
+MH  - Severity of Illness Index
+EDAT- 2011/06/24 06:00
+MHDA- 2011/10/22 06:00
+CRDT- 2011/06/24 06:00
+AID - 10.1097/AIA.0b013e31821a0272 [doi]
+AID - 00004311-201104930-00010 [pii]
+PST - ppublish
+SO  - Int Anesthesiol Clin. 2011 Summer;49(3):104-9. doi: 10.1097/AIA.0b013e31821a0272.
+
+PMID- 21225679
+OWN - NLM
+STAT- MEDLINE
+DA  - 20110331
+DCOM- 20110523
+LR  - 20151119
+IS  - 1529-0131 (Electronic)
+IS  - 0004-3591 (Linking)
+VI  - 63
+IP  - 4
+DP  - 2011 Apr
+TI  - Role of interleukin-6 in a patient with tumor necrosis factor receptor-associated
+      periodic syndrome: assessment of outcomes following treatment with the
+      anti-interleukin-6 receptor monoclonal antibody tocilizumab.
+PG  - 1151-5
+LID - 10.1002/art.30215 [doi]
+AB  - In this report, we describe treatment outcomes in the first case of a patient
+      with tumor necrosis factor receptor-associated periodic syndrome (TRAPS) treated 
+      with the anti-interleukin-6 (anti-IL-6) receptor monoclonal antibody tocilizumab.
+      Since IL-6 levels are elevated in TRAPS, we hypothesized that tocilizumab might
+      be effective. The patient, a 52-year-old man with lifelong TRAPS in whom
+      treatment with etanercept and anakinra had failed, was administered tocilizumab
+      for 6 months, and the therapeutic response was assessed by measurement of
+      monocyte CD16 expression and cytokine levels. Following treatment, the evolving
+      acute attack was aborted and further attacks of TRAPS were prevented. The patient
+      did not require corticosteroids and showed significant clinical improvement in
+      scores for pain, stiffness, and well-being. Moreover, the acute-phase response
+      diminished significantly with treatment. Monocyte CD16 expression was reduced and
+      the numbers of circulating CD14+CD16+ and CD14++CD16- monocytes were transiently 
+      decreased. However, cytokine levels were not reduced. This case supports the
+      notion of a prominent role for IL-6 in mediating the inflammatory attacks in
+      TRAPS, but blockade of IL-6 did not affect the underlying pathogenesis. These
+      preliminary findings require confirmation.
+CI  - Copyright (c) 2011 by the American College of Rheumatology.
+FAU - Vaitla, Prashantha M
+AU  - Vaitla PM
+AD  - Nottingham University Hospitals National Health Service Trust, Nottingham, UK.
+      prashanthamadhuri@gmail.com
+FAU - Radford, Paul M
+AU  - Radford PM
+FAU - Tighe, Patrick J
+AU  - Tighe PJ
+FAU - Powell, Richard J
+AU  - Powell RJ
+FAU - McDermott, Elizabeth M
+AU  - McDermott EM
+FAU - Todd, Ian
+AU  - Todd I
+FAU - Drewe, Elizabeth
+AU  - Drewe E
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antibodies, Monoclonal, Humanized)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Interleukin 1 Receptor Antagonist Protein)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Receptors, Interleukin-6)
+RN  - 0 (Receptors, Tumor Necrosis Factor)
+RN  - 0 (tocilizumab)
+RN  - OP401G7OJC (Etanercept)
+SB  - AIM
+SB  - IM
+MH  - Antibodies, Monoclonal/*therapeutic use
+MH  - Antibodies, Monoclonal, Humanized
+MH  - Etanercept
+MH  - Familial Mediterranean Fever/*drug therapy/*physiopathology
+MH  - Humans
+MH  - Immunoglobulin G/therapeutic use
+MH  - Interleukin 1 Receptor Antagonist Protein/therapeutic use
+MH  - Interleukin-6/*physiology
+MH  - Male
+MH  - Middle Aged
+MH  - Receptors, Interleukin-6/antagonists & inhibitors
+MH  - Receptors, Tumor Necrosis Factor/*physiology/therapeutic use
+MH  - Treatment Failure
+MH  - Treatment Outcome
+EDAT- 2011/01/13 06:00
+MHDA- 2011/05/24 06:00
+CRDT- 2011/01/13 06:00
+AID - 10.1002/art.30215 [doi]
+PST - ppublish
+SO  - Arthritis Rheum. 2011 Apr;63(4):1151-5. doi: 10.1002/art.30215.
+
+PMID- 20922086
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DA  - 20101005
+DCOM- 20110714
+LR  - 20130529
+IS  - 0973-6042 (Electronic)
+IS  - 0973-6042 (Linking)
+VI  - 4
+IP  - 1
+DP  - 2010 Jan
+TI  - New trends in regional anesthesia for shoulder surgery: Avoiding devastating
+      complications.
+PG  - 1-7
+LID - 10.4103/0973-6042.68410 [doi]
+AB  - Surgeons and patients are often reluctant to support regional anesthesia (RA) for
+      shoulder and other orthopedic surgeries. This is because of the sometimes true
+      but usually incorrectly perceived "slowing down" of operating room turnover time 
+      and the perceived potential for added morbidity. Recently, severe devastating and
+      permanent nerve injury complications have surfaced, and this article attempts to 
+      clarify the modern place of RA for shoulder surgery and the prevention of these
+      complications. A philosophical approach to anesthesiology and regional
+      anesthesiology is offered, while a fresh appreciation for the well-described and 
+      often forgotten microanatomy of the brachial plexus is revisited to explain and
+      avoid some of the devastating complications of RA for shoulder surgery.
+FAU - Boezaart, Andre P
+AU  - Boezaart AP
+AD  - Department of Anesthesiology, University of Florida College of Medicine,
+      Gainesville, FL, USA.
+FAU - Tighe, Patrick
+AU  - Tighe P
+LA  - eng
+PT  - Journal Article
+PL  - South Africa
+TA  - Int J Shoulder Surg
+JT  - International journal of shoulder surgery
+JID - 101291740
+PMC - PMC2940165
+OID - NLM: PMC2940165
+OTO - NOTNLM
+OT  - Acute pain management
+OT  - complications
+OT  - continuous peripheral nerve block
+OT  - permanent nerve damage
+OT  - regional anesthesia
+OT  - shoulder surgery
+OT  - upper limb surgery
+EDAT- 2010/10/06 06:00
+MHDA- 2010/10/06 06:01
+CRDT- 2010/10/06 06:00
+AID - 10.4103/0973-6042.68410 [doi]
+PST - ppublish
+SO  - Int J Shoulder Surg. 2010 Jan;4(1):1-7. doi: 10.4103/0973-6042.68410.
