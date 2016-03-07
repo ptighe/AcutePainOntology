@@ -9,7 +9,7 @@ from itertools import chain
 from functools import partial
 from operator import is_not
 from lxml.etree import tostring
-from funcy import flatten
+# from funcy import flatten
 
 # from compiler.ast import flatten
 
@@ -237,4 +237,7 @@ def chunks(l, n):
     for i in range(0, len(l), n):
         yield l[i:i+n]
 
-path_xml = list_xml_path('/Users/ptighe/Documents/Python Projects/AcutePainOntology/')
+
+xmlfile='pubmed_result_tighe.xml'
+dunno = list_xml_path(xmlfile)
+parse_pubmed_xml_to_df(dunno)
