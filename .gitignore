@@ -37,3 +37,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+data/*
+data/
+data
+pr_boost/pubmed_result_medline.txt
+
+medline_testing2/pubmed_result_medline.txt

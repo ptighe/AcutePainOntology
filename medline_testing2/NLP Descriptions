@@ -1,0 +1,5 @@
+#Count particular words
+papers.abstract.apply(lambda x: pd.value_counts(x.split(" "))).sum(axis=0)
+
+#Count words in each abstract, uses cells already split
+papers.ta.apply(lambda x: pd.value_counts(x).sum(axis=0))
